@@ -3,7 +3,7 @@
 
 # net-connect
 
-  Make tcp connections by port, host+port strings or objects.
+  Make tcp connections with a convenient api.
 
 ## Example
 
@@ -23,6 +23,7 @@ var con = connect('1.2.3.4:1337');
 var con = connect({ host: '1.2.3.4', port: 1337 });
 
 // { address, port }
+// this is what you get from server.address()
 var con = connect({ address: '1.2.3.4', port: 1337 });
 ```
 
