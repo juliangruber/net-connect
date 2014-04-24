@@ -1,4 +1,6 @@
 
+[![Build Status](https://circleci.com/gh/segmentio/net-connect.png?circle-token=e9452b79ec91e7630f5a65e7be03fcdbddd5079d)](https://circleci.com/gh/segmentio/net-connect)
+
 # net-connect
 
   Make tcp connections by port, host+port strings or objects.
