@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": "segmentio/net-connect",
   "license": "MIT",
-  "description": "Make tcp connections by port, host+port strings or objects",
+  "description": "Make tcp connections with a convenient api",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
