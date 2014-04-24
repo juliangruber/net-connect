@@ -5,7 +5,7 @@
   "license": "MIT",
   "description": "Make tcp connections by numbers, strings or objects",
   "publishConfig": {
-    "repository": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "mocha": "~1.18.2"
