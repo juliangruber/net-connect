@@ -1,6 +1,6 @@
 {
   "name": "net-connect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "segmentio/net-connect",
   "license": "MIT",
   "description": "Make tcp connections with a convenient api",
