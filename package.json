@@ -8,6 +8,6 @@
     "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "mocha": "~1.18.2"
+    "mocha": "~3.2.0"
   }
 }
